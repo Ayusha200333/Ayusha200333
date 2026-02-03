@@ -9,24 +9,16 @@
 ## 🚀 Skills
 
 - 💻 Languages: Java, Python, JavaScript
-- 🌐 Web: HTML, CSS, React
-- 🗄 Databases: MySQL
+- 🌐 Web: HTML, CSS, React 
+- 🗄 Databases: MySQL , MongoDB
 - ⚙️ Backend: Spring Boot
-
----
-
-## 📌 Projects
-
-🔹 Food Delivery System  
-🔹 Gym Management System (Role-Based Access with Authentication & Authorization)  
-🔹 Blog Management System (Spring Boot + React)
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: (paste your link here)
-- 📧 Email: (your email here)
+- 💼 LinkedIn: www.linkedin.com/in/ayusha-wijerathna-731649361
+- 📧 Email: ayushawijerathna@gmail.com 
 
 ---
 
