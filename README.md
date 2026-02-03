@@ -1,5 +1,4 @@
-# Hi there 👋<img width="480" height="463" alt="image" src="https://github.com/user-attachments/assets/64c4508d-1f04-4a55-a345-30d06c223afc" />
- I'm Ayusha Wijerathna
+# Hi there 👋 I'm Ayusha Wijerathna
 
 🎓 Student at IJSE – Institute of Software Engineering  
 💻 Passionate about Software Development & UI/UX  
