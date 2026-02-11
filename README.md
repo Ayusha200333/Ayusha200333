@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Ayusha Wijerathna
 
 🎓 Student at IJSE – Institute of Software Engineering  
-💻 Passionate about Software Development & UI/UX  
+💻 Passionate about Software Development , UI/UX & Mobile Application Dev  
 🌱 Currently learning Spring Boot, React & Full Stack Development  
 
 ---
 
 ## 🚀 Skills
 
-- 💻 Languages: Java, Python, JavaScript
+- 💻 Languages: Java, Python, JavaScript, Typescript 
 - 🌐 Web: HTML, CSS, React 
 - 🗄 Databases: MySQL , MongoDB
 - ⚙️ Backend: Spring Boot
